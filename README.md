@@ -1,6 +1,5 @@
 
-#aSSIGNMENT 4: GMM-Based Synthetic Sampling for Imbalanced Data
-
+# ASSIGNMENT 4: GMM-Based Synthetic Sampling for Imbalanced Data
 **Author:** Manish Nayak  
 **Roll No.:** CE22B069  
 **Course:** DA5401 
